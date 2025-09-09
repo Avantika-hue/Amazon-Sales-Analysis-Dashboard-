@@ -75,8 +75,7 @@ This project was built to showcase data visualization, business intelligence, an
 
 Clone this repository:
 
-[git clone https://github.com/yourusername/amazon-sales-dashboard.git](https://github.com/Avantika-hue/Amazon-Sales-Analysis-Dashboard-/blob/main/Amazon%20Sales%20Analysis.pbix
-)
+(https://github.com/Avantika-hue/Amazon-Sales-Analysis-Dashboard-/blob/main/Amazon%20sales%20analysis.JPG)
 
 Open the .pbix file in Power BI Desktop.
 
